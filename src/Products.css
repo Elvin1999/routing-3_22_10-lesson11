@@ -1,0 +1,40 @@
+.products{
+    display: flex;
+    margin: 50px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card{
+    margin: 20px;
+    padding: 10px;
+    width: 15%;
+    border-radius: 5px;
+    border: 2px solid deepskyblue;
+}
+.card-2{
+    padding: 20px;
+    width: 50%;
+    margin-top: 50px;
+    margin: auto;
+    border-radius: 5px;
+    border: 2px solid deepskyblue;
+}
+.card-2 img{
+    width: 50%;
+    margin: auto;
+    height: 250px;
+}
+img{
+    width: 50%;
+    margin: auto;
+    height: 100px;
+}
+.detail-btn{
+    text-decoration: none;
+    padding: 8px;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 1em;
+}
